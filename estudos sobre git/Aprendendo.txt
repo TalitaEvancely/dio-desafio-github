@@ -1,2 +1,9 @@
 Tentando entender como funciona o git e github.
 Aprendendo aos poucos e passando para um proximo nível 
+
+git Clone: para criar um repositório
+git status: para saber o status do seu repositório
+git add . : para adicionar o diretorio não comitado
+git commit -m "mensagem informando o que foi feito" 
+git status: para ver novamente
+git push origin main : para publicar os commits locais
