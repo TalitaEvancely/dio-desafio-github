@@ -1,2 +1,4 @@
-# dio-desafio-github
-teste do meu primeiro repositório pelos comandos git. Desafio de projeto git/github
+# Desafio de projeto Git/GitHub da Dio
+Teste do meu primeiro repositório pelos comandos git. 
+
+Repositório criado para o desafio de projeto git/github.
